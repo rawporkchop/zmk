@@ -52,7 +52,7 @@
             bindings = <
                 &trans  &kp F6  &kp F7  &kp F8          &kp F9        &kp F10    &kp F11  &kp F12      &trans      &trans      &kp RIGHT   &trans
                 &trans  &kp F1  &kp F2  &kp F3          &kp F4        &kp F5     &trans   &kp LEFT     &trans      &trans      &trans      &trans
-                &trans  &trans  &trans  &kp DOWN_ARROW  &kp UP_ARROW  &trans     &trans   &bt BT_PRV   &bt BT_NXT  &bt BT_CLR  &sys_reset  &trans
+                &trans  &trans  &trans  &kp DOWN_ARROW  &kp UP_ARROW  &trans     &trans   &bt BT_PRV   &bt BT_NXT  &bt BT_CLR  &sys_reset  &soft_off
                                         &trans          &trans        &trans     &trans   &trans       &trans
             >;
         };
